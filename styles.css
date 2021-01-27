@@ -1,0 +1,14 @@
+h1 {
+  color: rgba(28, 231, 39, 0.972);
+}
+
+/* classes basics */
+
+.link {
+  color: red;
+  text-decoration: none;
+}
+
+.link.selected {
+  font-weight: bold;
+}
