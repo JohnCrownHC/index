@@ -11,6 +11,7 @@ h1 {
 
 .container {
   background-color: rgb(156, 143, 143);
+
   margin: 100px auto;
   padding: 25px;
   height: 200px;
@@ -24,6 +25,7 @@ h1 {
 
 .green {
   text-transform: uppercase;
+  font-family: 'Courier New', Courier, monospace;
   background-color: green;
   border: 2px solid black;
   height: 100px;
@@ -40,6 +42,7 @@ h1 {
 
 .red {
   text-transform: uppercase;
+  font-family: 'Courier New', Courier, monospace;
   background-color: red;
   border: 2px solid black;
   height: 100px;
@@ -55,6 +58,7 @@ h1 {
 
 .disable {
   text-transform: uppercase;
+  font-family: 'Courier New', Courier, monospace;
   background-color: rgb(106, 106, 223);
   height: 100px;
   width: 200px;
