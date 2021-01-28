@@ -78,7 +78,7 @@ button:active {
   border: 7px solid black;
   box-shadow: none;
   transform: scale(0.98);
-  transition: 0.5s;
+  transition: 0.2s;
 }
 
 .magic {
